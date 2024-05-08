@@ -9,3 +9,15 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 */
+string[] stringArray = { "1234", "1567", "-2", "computer science" };
+string[] CreateNewArray(string[] array)
+{
+    int count = 0;
+    foreach (string s in array)
+    {
+        if (s.Length <= 3)
+        {
+            count = count + 1; 
+        }
+    }
+}

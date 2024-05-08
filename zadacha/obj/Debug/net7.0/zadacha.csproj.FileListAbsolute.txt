@@ -1,0 +1,4 @@
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfo.cs
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.csproj.CoreCompileInputs.cache
