@@ -2,3 +2,13 @@ C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрол�
 C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfoInputs.cache
 C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfo.cs
 C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\bin\Debug\net7.0\zadacha.exe
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\bin\Debug\net7.0\zadacha.deps.json
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\bin\Debug\net7.0\zadacha.runtimeconfig.json
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\bin\Debug\net7.0\zadacha.dll
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\bin\Debug\net7.0\zadacha.pdb
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.dll
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\refint\zadacha.dll
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.pdb
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\zadacha.genruntimeconfig.cache
+C:\Users\kattr\OneDrive\Рабочий стол\итоговая контрольная работа\zadacha\obj\Debug\net7.0\ref\zadacha.dll

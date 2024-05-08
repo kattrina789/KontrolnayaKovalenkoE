@@ -31,4 +31,11 @@ string[] CreateNewArray(string[] array)
         }
 
     }
+    foreach (string s in NewArray)
+    {
+        System.Console.Write(s + " ");
+    }
+
+    return NewArray;
 }
+string[] newArray = CreateNewArray(stringArray);
