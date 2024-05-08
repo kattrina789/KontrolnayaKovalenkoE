@@ -17,7 +17,18 @@ string[] CreateNewArray(string[] array)
     {
         if (s.Length <= 3)
         {
-            count = count + 1; 
+            count = count + 1;
         }
+    }
+    string[] NewArray = new string[count];
+    int index = 0;
+    foreach (string s in array)
+    {
+        if (s.Length <= 3)
+        {
+            NewArray[index] = s;
+            index = index + 1;
+        }
+
     }
 }
