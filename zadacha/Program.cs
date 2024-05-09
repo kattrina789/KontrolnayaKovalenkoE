@@ -29,13 +29,11 @@ string[] CreateNewArray(string[] array)
             NewArray[index] = s;
             index = index + 1;
         }
-
     }
     foreach (string s in NewArray)
     {
         System.Console.Write(s + " ");
     }
-
     return NewArray;
 }
 string[] newArray = CreateNewArray(stringArray);
